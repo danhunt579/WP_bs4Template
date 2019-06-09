@@ -1,0 +1,9 @@
+body {
+	background-color: red;
+}
+
+
+
+.main-menu ul li {
+	display: inline;
+}
